@@ -32,10 +32,11 @@ java FizzBuzz
 
 ## Comparison with Other Editions
 
-This repository is part of a trilogy showcasing different programming paradigms:
+This repository is part of a programming paradigm showcase:
 
-1. **FizzBuzzImperativeEdition** (this repo) - Simple, procedural approach
-2. **FizzBuzzFPEdition** - Functional programming with streams and predicates
-3. **FizzBuzzOOPEdition** - Over-engineered enterprise OOP solution
+1. **FizzBuzzImperativeEdition** (this repo) - Simple, procedural approach with for loops and if statements
+2. **[FizzBuzzFunctionalEdition](../FizzBuzzFunctionalEdition)** - Functional programming with streams and predicates
+3. **[FizzBuzzObjectOrientedEdition](../FizzBuzzObjectOrientedEdition)** - Over-engineered enterprise OOP solution with patterns
+4. **[FizzBuzzDeclarativeEdition](../FizzBuzzDeclarativeEdition)** - Configuration-driven, rule-based approach
 
-Each demonstrates how the same problem can be solved using different programming paradigms and levels of complexity.
+Each demonstrates different programming paradigms and approaches to solving the same problem.
